@@ -1,0 +1,3 @@
+[submodule "AndroidFile"]
+	path = AndroidFile
+	url = git@github.com:dqh147258/AndroidFile.git
